@@ -1,5 +1,5 @@
 package leetCodeProblems;
-// Remove Element code  
+// Remove Element code ee
 public class RemoveElement {
 	 public int removeElement(int[] nums, int val) {
 	        if (nums.length == 0){
